@@ -115,3 +115,10 @@ vnode stop
 ```
 
 and select the desired server and data nodes to stop.
+
+## Useful links
+
+- [Vantage6 documentation](https://docs.vantage6.ai/)
+
+- [API documentation](https://api-test.distributedlearning.ai/apidocs/)
+
